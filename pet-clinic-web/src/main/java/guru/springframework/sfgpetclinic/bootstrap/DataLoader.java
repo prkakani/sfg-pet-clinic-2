@@ -98,7 +98,7 @@ public class DataLoader implements CommandLineRunner {
 
         visitService.save(catVisit);
 
-        System.out.println("Loaded Owners....");
+        System.out.println("Loaded Owners more ....");
 
         Vet vet1 = new Vet();
         vet1.setFirstName("Sam");
